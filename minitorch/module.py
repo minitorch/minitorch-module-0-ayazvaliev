@@ -1,7 +1,5 @@
 from __future__ import annotations
-
-from itertools import chain
-from typing import Any, Dict, Optional, Sequence, Tuple, Callable, Iterable
+from typing import Any, Dict, Optional, Sequence, Tuple
 
 
 class Module:
